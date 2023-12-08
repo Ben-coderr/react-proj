@@ -31,3 +31,25 @@
   color: #ff183f;
   margin-left: 20px;
 }
+
+.blog {
+  padding-bottom: 20px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  
+  padding: 10px;
+margin-bottom: 10px;
+}
+.blog:hover{
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.141);
+}
+.blog h1 {
+  color: #ff183f;
+}
+.blog p {
+  font-size: 15px;
+  padding: 10px 0;
+}
